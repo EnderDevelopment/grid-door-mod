@@ -1,0 +1,6 @@
+{
+    "parent": "block/template_door_bottom",
+    "textures": {
+        "texture": "griddoormod:block/grid_door"
+    }
+}

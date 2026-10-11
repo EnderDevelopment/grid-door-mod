@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=east,half=lower,hinge=left,open=false": { "model": "griddoormod:block/grid_door" },
+        "facing=west,half=lower,hinge=left,open=false": { "model": "griddoormod:block/grid_door", "y": 180 },
+        "facing=south,half=lower,hinge=left,open=false": { "model": "griddoormod:block/grid_door", "y": 90 },
+        "facing=north,half=lower,hinge=left,open=false": { "model": "griddoormod:block/grid_door", "y": 270 }
+    }
+}
